@@ -3,10 +3,10 @@
  
  # Following below command step by step
  
- composer require laravel/passport
- php artisan passport:install
- php artisan migrate
- php artisan key:generate
+ - composer require laravel/passport
+ - php artisan passport:install
+ - php artisan migrate
+ - php artisan key:generate
  
  
  
